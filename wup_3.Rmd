@@ -71,4 +71,4 @@ Using the tukey boxplot we can tell that the front is different from the back an
 
 ## Conclusions
 
-
+We began the assignment with doing a variable analysis which led to looking at the variables given in order to help identify what helper file was needed. After looking at the variables we needed the numerical~cat file which helped us with the problem. After analyzing the numerical~cat helper file we were able to past the commands after changing the variables within each command. After analyzing the results and data I concluded that I rejected the null hypothesis which means that there is a great difference between the amount that the back drinks compared to the front and middle rows.
